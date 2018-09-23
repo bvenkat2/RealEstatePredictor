@@ -1,0 +1,12 @@
+tensorflow
+keras
+future
+pandas
+numpy
+matplotlib
+scikit-learn
+IPython
+nltk
+seaborn
+textblob
+
